@@ -2,3 +2,7 @@ body {
   background: rgb(148, 182, 207);
   text-align: center;
 }
+
+footer a {
+  margin: 0 10px;
+}
